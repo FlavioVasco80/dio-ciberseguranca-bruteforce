@@ -48,3 +48,15 @@ Para evitar o sucesso desse tipo de ataque, as seguintes práticas são essencia
 # Conclusão 
 
 O desafio permitiu compreender profundamente a lógica de ataques por força bruta e a importância de ferramentas clássicas como o Medusa na auditoria de segurança. A documentação clara do processo é o primeiro passo para uma defesa sólida em qualquer infraestrutura de TI. 
+
+<img width="4096" height="1842" alt="IMG_20260424_154633317_HDR" src="https://github.com/user-attachments/assets/0ed17ffc-0308-4209-9121-1567d78f9a14" />
+
+<img width="4096" height="1842" alt="IMG_20260424_154645749_HDR" src="https://github.com/user-attachments/assets/6fa97f79-4508-4a37-be62-ae35c7c08cba" />
+
+<img width="3264" height="1468" alt="IMG_20260424_154005488_HDR" src="https://github.com/user-attachments/assets/4fcbde35-6a86-4d15-990d-233b601ed5c8" />
+
+<img width="3264" height="1468" alt="IMG_20260424_154107724_HDR" src="https://github.com/user-attachments/assets/70a2f587-0515-49d3-b3c4-d332f745c3f9" />
+
+<img width="3264" height="1468" alt="IMG_20260424_154239778_HDR" src="https://github.com/user-attachments/assets/f4878fce-5176-4da1-9098-30b54b418e39" />
+
+<img width="4096" height="1842" alt="IMG_20260424_154528236_HDR" src="https://github.com/user-attachments/assets/588d69f0-ad05-45ba-8137-db040e33c683" />
