@@ -1,11 +1,11 @@
 # Projeto de Cibersegurança: Simulação de Ataque de Força Bruta
 Projeto prático de cibersegurança focado em ataques de força bruta com Medusa e Kali Linux, desenvolvido para o Bootcamp da DIO 
 
-# Descrição do Projeto
+## Descrição do Projeto 
 
 Este projeto documenta a análise técnica e a simulação de ataques de força bruta (Brute Force) utilizando o Kali Linux e a ferramenta Medusa. O objetivo é demonstrar a vulnerabilidade de sistemas mal configurados ou legados e propor medidas de mitigação eficazes.
 
-# Tecnologias e Ferramentas Estudadas 
+## Tecnologias e Ferramentas Estudadas 
 
 Sistema Atacante: Kali Linux.  
 
@@ -14,7 +14,7 @@ Sistema Alvo (Cenário Proposto): Windows XP (Representando sistemas legados em 
 Ferramenta de Ataque: Medusa (focada em força bruta paralela).  
 
 Protocolo Analisado: SMB (Server Message Block).  
-# Metodologia e Execução Teórica
+## Metodologia e Execução Teórica
 
 Devido a limitações de hardware para virtualização simultânea, o projeto foi executado através do estudo profundo da sintaxe e lógica das ferramentas.  
 
@@ -33,7 +33,7 @@ O comando abaixo ilustra como seria realizada a auditoria no protocolo SMB:
 -U/-P: Caminhos para as listas de usuários e senhas.  
 -M: Módulo do protocolo utilizado (SMB).  
 
-# Medidas de Mitigação (Prevenção) 
+## Medidas de Mitigação (Prevenção) 
 
 Para evitar o sucesso desse tipo de ataque, as seguintes práticas são essenciais:  
 
@@ -45,7 +45,7 @@ Para evitar o sucesso desse tipo de ataque, as seguintes práticas são essencia
 
 * Atualização de Sistemas: Migrar de sistemas legados (como o Windows XP) para versões modernas que corrigem falhas de segurança conhecidas.
 
-# Conclusão 
+## Conclusão 
 
 O desafio permitiu compreender profundamente a lógica de ataques por força bruta e a importância de ferramentas clássicas como o Medusa na auditoria de segurança. A documentação clara do processo é o primeiro passo para uma defesa sólida em qualquer infraestrutura de TI. 
 
